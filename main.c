@@ -1,4 +1,3 @@
-/* Liam Smyth's main C file for Assignment 1 */
 /* This Project should be able to read in a text file of songs and artists, sort the text alphabetically and
  * produce a randomised playlist of roughly 1 hour */
 #include "ReadingAndSorting.h"
